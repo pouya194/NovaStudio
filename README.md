@@ -33,3 +33,37 @@ Optimized for desktop, tablet, and mobile devices.
 Pouya Adineh
 
 [GitHub Profile](https://github.com/pouya194)
+
+## 📸 Screenshots
+
+### Homepage
+
+![Hero](screenshots/01-hero.png)
+
+### Services
+
+![Services](screenshots/02-services.png)
+
+### About
+
+![About](screenshots/03-about.png)
+
+### Process
+
+![Process](screenshots/04-process.png)
+
+### Portfolio
+
+![Portfolio](screenshots/05-portfolio.png)
+
+### Portfolio Project Details
+
+![Portfolio Modal](screenshots/06-portfolio-modal.png)
+
+### Testimonials
+
+![Testimonials](screenshots/07-testimonials.png)
+
+### Contact
+
+![Contact and Footer](screenshots/08-contact-footer.png)
